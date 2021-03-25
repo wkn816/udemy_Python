@@ -1,4 +1,6 @@
 # print('Hello')
+
+# 値と値の型の出力練習
 number = 1
 number2 = 1.0
 greeting = "こんにちわ"
